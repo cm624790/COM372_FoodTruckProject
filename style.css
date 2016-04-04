@@ -1,0 +1,118 @@
+/* unvisited link */
+a:link {
+    color: black;
+}
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: orange;
+}
+
+/* selected link */
+a:active {
+    color: orange;}
+
+a:link {
+  text-decoration: none;
+}
+
+@import @font-face {
+Nexa Rust Slab
+    }
+@import @font-face {
+  Nexa Rust Script L
+    }
+@import @font-face {
+      Nexa Rust Sans
+    }
+
+h1 {
+  text-align: center;
+  font-family: Nexa Rust Slab;
+  font-size: 50px!important;
+  margin-top: 15px;
+  margin-bottom: 0px;
+}
+
+h3 {
+  text-align: center;
+  font-family: Nexa Rust Script L;
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 40px;
+}
+
+nav {
+   font-family: Nexa Rust Sans;
+   font-size: 20px;
+   text-align: center;
+ }
+
+#navLinks {
+  border-style: solid;
+  border-width: 4px 0px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#EATS {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#MISSION {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+#FIND {
+padding-left: 100px;
+padding-right: 100px;
+}
+
+body {
+  font-family: Nexa Rust Sans;
+}
+
+#assorted {
+  width: 1209px;
+  position: relative;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+   position: absolute;
+   top: 200px;
+   left: 0;
+   width: 100%;
+   font-size: 70px;
+   font-family: Nexa Rust Slab;
+   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+#fb {
+  width: 30px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-right: 2px;
+}
+
+#twitter {
+  width: 30px;
+  padding-right: 2px;
+
+}
+
+#insta {
+  width: 30px;
+}
+
+#Appetizers {
+  margin-bottom: 0px;
+}
