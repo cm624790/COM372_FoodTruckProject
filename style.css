@@ -116,3 +116,21 @@ h2 {
 #Appetizers {
   margin-bottom: 0px;
 }
+
+#one {
+  padding-left: 20px;
+   float:left;
+   width:600px;
+   }
+
+#two {
+   float:right;
+   width:600px;
+  }
+
+ h4 {
+   font-family: Nexa Rust Script L;
+   font-size: 30px;
+   margin: 0px;
+   font-weight: bolder;
+ }
