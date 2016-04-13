@@ -132,6 +132,18 @@ color: #E88500;
   margin-bottom: 0px;
 }
 
+#apps {
+  padding-bottom: 10px;
+}
+
+#soup {
+  padding-bottom: 10px;
+}
+
+#sammys {
+  padding-bottom: 10px;
+}
+
 #one {
   padding-left: 50px;
   padding-top: 15px;
@@ -157,12 +169,12 @@ color: #E88500;
 #farinata {
   width: 550px;
   padding-top: 45px;
-  padding-bottom: 20px;
+  padding-bottom: 60px;
 }
 
 #blackb {
   width: 550px;
-  padding-bottom: 20px;
+  padding-bottom: 60px;
 }
 
 #falafel {
@@ -243,7 +255,7 @@ color: #E88500;
 
 #map {
   padding-top: 25px;
-  padding-bottom: 15px;
+  padding-bottom: 50px;
 }
 
 #four {
@@ -257,16 +269,14 @@ color: #E88500;
 #manayunk {
   width: 550px;
   height: 390px;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 
 }
 
 #foodtrucks {
   width: 550px;
-  padding-bottom: 20px;
+  padding-bottom: 40px;
 }
 
 #streetfair {
   width: 550px;
-  padding-bottom: 20px;
-}
