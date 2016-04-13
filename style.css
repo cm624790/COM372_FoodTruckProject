@@ -1,11 +1,11 @@
 /* mouse over link */
 a:hover {
-    color: #FFB756!important;
+  color: #FFB756!important;
 }
 
 /* selected link */
 a:active {
-    color: #FFB756!important;
+  color: #FFB756!important;
   }
 
 a:link {
@@ -45,12 +45,12 @@ h1 {
 
 h2 {
   text-align: center;
-  color: white;
-   position: absolute;
-   top: 270px;
-   left: 0;
-   width: 100%;
-   font-size: 70px;
+  position: absolute;
+  padding-left: 50px;
+  padding-right: 50px;
+   color: white;
+   top: 340px;
+   font-size: 60px;
    font-family: Nexa Rust Slab;
    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
@@ -123,7 +123,8 @@ color: #E88500;
 }
 
 #assorted {
-  width: 1209px;
+  padding: 50px;
+  width: 1110px;
   position: relative;
 }
 
@@ -135,6 +136,7 @@ color: #E88500;
   padding-left: 50px;
   padding-top: 15px;
   padding-right: 50px;
+  padding-bottom: 50px;
   float:left;
   width:500px;
    }
@@ -142,10 +144,14 @@ color: #E88500;
 #two {
   float:right;
   width:600px;
+  padding-bottom: 30px;
   }
 
 #statement {
   text-align: center;
+  font-size: 20px;
+  font-family: Nexa Rust Slab;
+  padding-top: 20px;
 }
 
 #farinata {
@@ -161,4 +167,106 @@ color: #E88500;
 
 #falafel {
   width: 550px;
+}
+
+#container1 {
+  padding-left: 50px;
+  padding-right:50px;
+  padding-bottom: 50px;
+  padding-top: 10px;
+}
+
+#mission1 {
+  width: 530px;
+  float: left;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #FFC865;
+  font-size: 20px;
+}
+
+#mission2 {
+  width: 530px;
+  float: right;
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #FFB93C;
+  font-size: 20px;
+}
+
+#mission3 {
+  width: 530px;
+  float: left;
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+  background-color: #C37F00;
+  font-size: 20px;
+}
+
+#mission4 {
+  width: 530px;
+  float: right;
+  text-align: center;
+  margin-top: 30px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 30px;
+  background-color: #9A6300;
+  font-size: 20px;
+}
+
+#mission6 {
+  width: 1120px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Nexa Rust Slab;
+}
+
+#container2 {
+  font-size: 30px;
+}
+
+#three {
+  float:left;
+  padding-top: 30px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  width:500px;
+}
+
+#map {
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
+
+#four {
+  padding-top: 50px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+  float:right;
+  width:500px;
+}
+
+#manayunk {
+  width: 550px;
+  height: 390px;
+  padding-bottom: 20px;
+
+}
+
+#foodtrucks {
+  width: 550px;
+  padding-bottom: 20px;
+}
+
+#streetfair {
+  width: 550px;
+  padding-bottom: 20px;
 }
