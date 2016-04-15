@@ -133,15 +133,21 @@ color: #E88500;
 }
 
 #apps {
-  padding-bottom: 10px;
+  padding-bottom: 20px;
+  border-style: solid;
+  border-width: 0px 0px 4px 0px;
 }
 
 #soup {
-  padding-bottom: 10px;
+  padding-bottom: 20px;
+  border-style: solid;
+  border-width: 0px 0px 4px 0px;
 }
 
 #sammys {
-  padding-bottom: 10px;
+  padding-bottom: 20px;
+  border-style: solid;
+  border-width: 0px 0px 4px 0px;
 }
 
 #one {
@@ -169,12 +175,12 @@ color: #E88500;
 #farinata {
   width: 550px;
   padding-top: 45px;
-  padding-bottom: 60px;
+  padding-bottom: 80px;
 }
 
 #blackb {
   width: 550px;
-  padding-bottom: 60px;
+  padding-bottom: 80px;
 }
 
 #falafel {
